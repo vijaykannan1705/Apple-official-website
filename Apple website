@@ -1,0 +1,42 @@
+# Apple Website Clone 🍎
+
+A responsive Apple website clone built using HTML and CSS. This project recreates the modern design and layout of Apple's official website to demonstrate front-end development skills and responsive web design.
+
+## 🚀 Features
+- Responsive design for different screen sizes
+- Apple-inspired modern user interface
+- Clean and organized layout
+- Navigation bar and product sections
+- Mobile-friendly design
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+
+## 📂 Project Structure
+```
+Apple-Website/
+│── index.html
+│── style.css
+│── images/
+└── README.md
+```
+
+## 🎯 Purpose
+This project was created to improve front-end development skills by replicating the design and user experience of the Apple website.
+
+## 📸 Screenshot
+![Apple Website Screenshot](images/screenshot.png)
+
+
+## 🔮 Future Improvements
+- Add JavaScript functionality
+- Improve animations and transitions
+- Enhance responsiveness
+- Add more Apple product pages
+
+## 👨‍💻 Author
+**Vijay Kannan**
+
+- LinkedIn: www.linkedin.com/in/vijayy1730
+- GitHub: vijaykannan1705
